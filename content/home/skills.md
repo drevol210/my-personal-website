@@ -5,17 +5,17 @@ weight: 40
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+  - description: 
+    icon: solidworks-logo
+    icon_pack: custom
+    name: Solidworks
+  - description: 
+    icon: msoffice-logo
+    icon_pack: custom
+    name: MS Office
+  - description: 
+    icon: ansys-logo
+    icon_pack: custom
+    name: ANSYS
 widget_id: skills
 ---
