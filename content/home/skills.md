@@ -1,19 +1,19 @@
 ---
 widget: featurette
 headless: true
-weight: 40
+weight: 35
 title: Skills
 subtitle: null
 feature:
-  - description: 
+  - description: null
     icon: solidworks-logo
     icon_pack: custom
     name: Solidworks
-  - description: 
+  - description: null
     icon: msoffice-logo
     icon_pack: custom
     name: MS Office
-  - description: 
+  - description: null
     icon: ansys-logo
     icon_pack: custom
     name: ANSYS
