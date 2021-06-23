@@ -30,8 +30,8 @@ experience:
     company_url: "https://mcdonalds.com.au/"
     company_logo: maccas-logo
     location: Sydney
-    date_start: 2016-10-01
-    date_end: 2014-11-01
+    date_start: 2014-11-01
+    date_end: 2016-10-01
     description: ""
 widget_id: experience
 headless: true
