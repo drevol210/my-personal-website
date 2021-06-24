@@ -1,6 +1,9 @@
 ---
 title: Pneumatic Pump
 date: 2019-08-13T08:09:52.991Z
+summary: A group of other university student and I were tasked with designing,
+  manufacturing and assembling a pneumatic vertical displacement pump to inflate
+  and pop a balloon.
 draft: false
 featured: true
 authors:
