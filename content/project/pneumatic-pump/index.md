@@ -20,5 +20,3 @@ Take a look at this [video](https://youtu.be/EVq0-BA2mTg) to see how well it wor
 ![](pump-assembly.jpg)
 
 ![](pump-exploded-view.jpg)
-
-![](pump-photo.jpg)
