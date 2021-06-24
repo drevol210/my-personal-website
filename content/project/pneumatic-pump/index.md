@@ -9,7 +9,7 @@ tags:
   - mechanical design
 external_link: https://andrevolpato.netlify.app/project/pneumatic-pump/
 image:
-  filename: pump-photo.jpg
+  filename: pump-assembly.jpg
   focal_point: Smart
   preview_only: false
 ---
@@ -20,3 +20,5 @@ Take a look at this [video](https://youtu.be/EVq0-BA2mTg) to see how well it wor
 ![](pump-assembly.jpg)
 
 ![](pump-exploded-view.jpg)
+
+![](pump-photo.jpg)
