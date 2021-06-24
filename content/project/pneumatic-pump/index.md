@@ -9,7 +9,7 @@ tags:
   - mechanical design
 external_link: https://andrevolpato.netlify.app/project/pneumatic-pump/
 image:
-  filename: pump-assembly.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
