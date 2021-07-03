@@ -7,7 +7,7 @@ authors:
   - admin
 tags:
   - CFD
-external_link: https://andrevolpato.netlify.app/project/Heat-Exchanger/
+external_link: https://andrevolpato.netlify.app/project/heat-exchanger-cfd/
 image:
   filename: featured.jpg
   focal_point: Smart
