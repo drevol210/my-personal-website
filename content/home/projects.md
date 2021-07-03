@@ -10,10 +10,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Mechanical Design
+      tag: mechanical design
+    - name: CFD
+      tag: CFD
+    - name: FEA
+      tag: FEA
+#    - name: Other
+#      tag: Demo
 widget_id: academic projects
 design:
   columns: "2"
