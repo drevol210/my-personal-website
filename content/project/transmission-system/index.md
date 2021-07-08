@@ -3,6 +3,10 @@ title: Transmission System
 date: 2021-07-06T03:43:12.379Z
 draft: false
 featured: false
+authors:
+  - admin
+tags:
+  - mechanical design
 external_link: https://andrevolpato.netlify.app/project/Transmission-System/
 image:
   filename: featured.jpg
