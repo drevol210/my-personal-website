@@ -10,3 +10,5 @@ image:
   preview_only: false
 ---
 For this design project, a group of other students and I were tasked with designing and assembling part of a transmission system of a winch for a given hypothetical situation. Provided with input parameter and tasked with attaining desired output metrics, the system of gears and the shaft in which they were mounted on were designed using Solidworks. The gears were laser cut out of sheet metal at the facilities of NEPEAN Engineering & Innovation, an industry partner of UNSW.
+
+[Click here](https://youtu.be/gPDaY6g2T38) to see the final system in action on testing day!
