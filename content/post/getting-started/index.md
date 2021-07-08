@@ -12,10 +12,11 @@ tags: []
 categories: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: Wynyard Place, now Brookfield Place
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: featured.jpg
 ---
 During my time working for De Martin & Gasparini, I've had the pleasure of working on some major commercial and residential projects accross Sydney's CBD. 
 
