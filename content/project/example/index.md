@@ -1,12 +1,12 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: ""
 authors:
   - admin
 url_video: ""
-date: 2016-04-27T00:00:00Z
-external_link: https://andrevolpato.netlify.app/project/transmission-system/
+date: 2016-04-27T00:00:00.000Z
+external_link: https://andrevolpato.netlify.app/project/stirling-engine/
 url_slides: ""
 title: Stirling Engine
 subtitle: (Currentlly In Progress)
@@ -14,8 +14,8 @@ tags:
   - mechanical design
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   filename: featured.jpg
 url_code: ""
 ---
