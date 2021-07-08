@@ -22,7 +22,7 @@ During my time working for De Martin & Gasparini, I've had the pleasure of worki
 
 Often carrying out various tasks as per what's required on a given day but a big part of my role has been conducting assessments of drawing changes.
 
-## Features
+
 
 * **Martin Place Metro Station** - Currently
 * **DUO & Block 11** - Chippendale
