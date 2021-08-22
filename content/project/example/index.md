@@ -6,7 +6,7 @@ authors:
   - admin
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
-external_link: https://andrevolpato.netlify.app/project/stirling-engine/
+external_link: https://andrevolpato.netlify.app/project/example/
 url_slides: ""
 title: Stirling Engine
 subtitle: (Currentlly In Progress)
