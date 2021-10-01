@@ -7,7 +7,7 @@ featured: false
 authors:
   - admin
 tags:
-  - mechanical_design
+  - mechanical design
 external_link: https://andrevolpato.netlify.app/project/smart-farm/
 image:
   filename: sprinklernetwork.jpg
