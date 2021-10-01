@@ -10,7 +10,7 @@ tags:
   - mechanical design
 external_link: https://andrevolpato.netlify.app/project/smart-farm/
 image:
-  filename: sprinklernetwork.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
