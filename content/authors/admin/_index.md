@@ -26,6 +26,7 @@ highlight_name: false
 title: Andre Volpato
 email: ""
 ---
-A final year mechanical engineering student engineer at UNSW who is keen to launch into an engineering internship or graduate role for 2022 to turn study into practice and gain valuable hands-on experience while discovering what I love to do.
+Andre is a graduate mechanical engineer from UNSW. During his studies, Andre has gained valuable experience in the construction industry. He has demonstrated aptitude in estimation, quality assurance and project management skills.
+Exercising existing knowledge and skills, and a keen desire to learn, Andre will strive to make informed and meaningful contributions to every project he is involved in. Andre has already gained valuable experience testing rolling stock for network certification and carrying out finite element analysis using SolidWorks Simulation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
