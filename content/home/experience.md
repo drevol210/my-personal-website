@@ -4,8 +4,8 @@ date_format: Jan 2006
 experience:
   - title: Graduate Engineering Consultant
     company: Rail Confidence
-    company_url: [https://www.railconfidence.com/]
-    company_logo: dmg-logo
+    company_url: https://www.railconfidence.com/
+    company_logo: RCConfidence-Logo
     location: Sydney
     date_start: 2022-01-31
     date_end: ""
