@@ -2,6 +2,20 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Site Engineer
+    company: MTR Corporation (Australia)
+    company_url: http://www.mtraustralia.com.au/
+    company_logo: MTR
+    location: Sydney
+    date_start: 2022-11-31
+    date_end: ""
+    description: >-2
+        Responsibilities:
+        
+        * Day to day coordination of subcontractors in the delivery of works
+        * Monitoring of the project program and record progress against the program
+        * Support and follow relevant HSEQ procedures and programs
+
   - title: Graduate Engineering Consultant
     company: Rail Confidence
     company_url: https://www.railconfidence.com/
@@ -12,9 +26,10 @@ experience:
     description: >-2
         Responsibilities:
         
-        * Conduct finite element analysis on vehicle chassis using SolidWorks Simulation
-        * Carry out vehicle compliance testing for rail network certification
-        * Collate engineering reports
+        * Conduct Finite Element Analysis (FEA) to assess vehicle underframe designs and modifications
+        * Compile standards compliance plans and carry out compliance tests on track maintenance vehicles (including hi-rails and wagons) 
+        * Various engineering calculations and report writing
+
   - title: Administrator
     company: De Martin & Gasparini
     company_url: https://www.demartinandgasparini.com.au/
