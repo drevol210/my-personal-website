@@ -5,7 +5,7 @@ experience:
   - title: Site Engineer
     company: MTR Corporation (Australia)
     company_url: http://www.mtraustralia.com.au/
-    company_logo: MTR
+    company_logo: MTR-logo
     location: Sydney
     date_start: 2022-11-31
     date_end: ""
