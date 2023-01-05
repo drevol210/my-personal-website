@@ -1,4 +1,5 @@
 ---
+title: Andre Volpato
 role: Bachelor of Engineering (Mechanical)
 avatar_filename: avatar.jpg
 bio: ""
@@ -21,12 +22,10 @@ education:
     - course: BE (Hons) in Mechanical Engineering
       institution: University of New South Wales
       year: 2021
+email: ""
 superuser: true
 highlight_name: false
-title: Andre Volpato
-email: ""
 ---
 A mechanical engineer from UNSW who has already gained valuable experience in the rail industry as an engineering consultant for Rail Confidence. Currently seconded to MTR as a site engineer, overseeing the mechanical, signalling and communications trackside install during the construction phase of the Sydney Metro City Tunnels.
-Exercising existing knowledge and skills, and a keen desire to learn, Andre will strive to make informed and meaningful contributions to every project he is involved in. Andre has been involved with testing rolling stock for network compliance and certification as well as verification of design and modification to vehicle chasses by finite element analysis using SolidWorks Simulation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
