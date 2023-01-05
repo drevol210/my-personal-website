@@ -15,7 +15,6 @@ experience:
         * Day to day coordination of subcontractors in the delivery of works
         * Monitoring of the project program and record progress against the program
         * Support and follow relevant HSEQ procedures and programs
-
   - title: Graduate Engineering Consultant
     company: Rail Confidence
     company_url: https://www.railconfidence.com/
@@ -29,7 +28,6 @@ experience:
         * Conduct Finite Element Analysis (FEA) to assess vehicle underframe designs and modifications
         * Compile standards compliance plans and carry out compliance tests on track maintenance vehicles (including hi-rails and wagons) 
         * Various engineering calculations and report writing
-
   - title: Administrator
     company: De Martin & Gasparini
     company_url: https://www.demartinandgasparini.com.au/
@@ -63,7 +61,7 @@ experience:
     description: ""
 widget_id: experience
 headless: true
-weight: 20
+weight: 30
 title: Experience
 subtitle: null
 design:
